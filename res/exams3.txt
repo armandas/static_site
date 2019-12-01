@@ -1,0 +1,9 @@
+Feedback Control                           | Tue 09 June 14:00 | S  | 1½ hours
+Digital Systems Design                     | Thu 11 June 14:00 | S  | 1 hour
+Electronic & Communications Circuit Design | Sat 13 June 09:30 | MH | 1½ hours
+Signals and Systems Analysis               | Mon 15 June 14:00 | S  | 1½ hours
+Project Management & Ethics                | Tue 16 June 14:00 | S  | 2 hours
+Circuits                                   | Thu 18 June 14:00 | MB | 1½ hours
+Introduction to Digital Signal Processing  | Tue 23 June 14:00 | MH | 1 hour
+Statistics for Engineers                   | Wed 24 June 09:30 | MH | 1 hour
+Microprocessor Applications                | Thu 25 June 09:30 | MH | 1½ hours

@@ -1,0 +1,11 @@
+Circuits and Electronics               | Wed 04 June 14:00 | S  | 1½ hours
+Mechanics 1                            | Fri 06 June 09:30 | S  | 1  hour
+Energy and Power 1                     | Mon 09 June 14:00 | S  | 1  hour
+Analogue Electronics                   | Mon 09 June 17:00 | MH | 1  hour
+Mathematical Methods 1 (for Engineers) | Wed 11 June 14:00 | S  | 1½ hours
+Further Mathematical Methods           | Wed 11 June 17:00 | MH | 1  hour
+Digital Systems 1                      | Fri 13 June 14:00 | S  | 1  hour
+Digital Systems 2                      | Fri 13 June 17:00 | MH | 1  hour
+Selection of Materials 1               | Tue 17 June 09:30 | S  | 1  hour
+Selection of Materials 2               | Tue 17 June 14:00 | S  | 1  hour
+Electromechanics                       | Thu 19 June 09:30 | S  | 1  hour

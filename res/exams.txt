@@ -1,0 +1,8 @@
+Principles of Technology | Thu 07 June 14:00 | MB | 1  hour
+Principles of Design     | Mon 11 June 14:00 | MH | 1½ hours
+Heat & Energy            | Tue 12 June 14:00 | MH | 1  hour
+Mechanics A              | Thu 14 June 09:30 | S  | 1½ hours
+Mechanics B              | Thu 14 June 14:00 | S  | 1½ hours
+Foundation Mathematics   | Sat 16 June 09:30 | S  | 3  hours
+Electricity & Magnetism  | Mon 18 June 09:30 | MH | 1½ hours
+Circuits                 | Tue 19 June 14:00 | MH | 1½ hours

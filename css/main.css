@@ -1,0 +1,253 @@
+/* http://armandas.lt *//* By Armandas Jarusauskas */
+
+body {
+    background: #edebe4;
+    color: #000;
+    font-size: 14px;
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+}
+a, a:link {
+    color: #1681d4;
+    text-decoration: none;
+    outline: none;
+}
+a:hover {
+   text-decoration: underline;
+}
+a:visited {
+    color: #074f87;
+    text-decoration: none;
+}
+a img {
+    border: none;
+}
+li {
+    color: #333;
+}
+blockquote {
+    font-style: italic;
+}
+
+.hidden {
+    display: none;
+}
+
+#top {
+    background: #45464e url("../res/images/top_bottom-line.gif") bottom repeat-x;
+    border-top: 8px solid #343542;
+}
+#header {
+    width: 900px;
+    height: 130px;
+    margin: auto;
+}
+#header h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 2.8em;
+    color: #efefef;
+    padding-top: 30px;
+}
+#menu {
+    width: 900px;
+    height: 47px;
+    margin: auto;
+}
+#menu li {
+    list-style-type: none;
+}
+#menu a {
+    display: block;
+    float: left;
+    width: 100px;
+    height: 33px;
+    background: url("../res/images/menu.gif") no-repeat;
+    background-position: top right;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    line-height: 34px;
+    margin: 4px;
+    padding: 0;
+}
+#menu a:hover {
+    background: url("../res/images/menu.gif") 0 33px no-repeat;
+    background-position: 0 -33px;
+}
+
+#wrapper {
+    border-top: 1px solid #fff;
+    background: url("../res/images/body_top-bg.gif") top repeat-x;
+    height: 200px;
+}
+
+#container {
+    width: 900px;
+    margin: auto;
+}
+
+#content {
+    width: 650px;
+    float: left;
+}
+
+#comments_title {
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 3px solid #d6d4ce;
+    margin-bottom: 20px;
+}
+#comments_title a, #comments_title a:hover {
+    text-decoration: none;
+}
+
+#comments_disabled {
+    display: block;
+    padding: 10px;
+    font-size: 0.9em;
+    font-style: italic;
+    color:  #333;
+}
+
+.comment {
+    border-bottom: 1px solid #d6d4ce;
+    padding: 0 20px 0 20px;
+    margin-top: 20px;
+}
+.comment .name img {
+    float: right;
+    border: 4px solid #fff;
+}
+.name h4 {
+    font-size: 1.4em;
+    color: #444;
+}
+.name h4 a, name h4 a:visited {
+    color: #222;
+    text-decoration: none;
+}
+.name h4 a:hover {
+    text-decoration: underline;
+}
+.name .date {
+    padding: 0;
+    margin: 0;
+    color: #555;
+}
+.me {
+    background: #0f0d12;
+}
+.text {
+    color: #333;
+}
+
+.post h2 {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 2.1em;
+    color: #333;
+    margin-top: 30px;
+}
+.post h2 a, .post h2 a:visited {
+    color: inherit;
+    font-size: inherit;
+    text-decoration: none;
+}
+.post small, .post small a, .post small a:visited {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: 0.9em;
+    color: #333;
+}
+.post p {
+    text-align: justify;
+    color: #333;
+}
+
+/* tag list under the post */
+.post p small a, .post p small a:visited {
+    color: #1681d4;
+    text-decoration: none;
+}
+.post p small a:hover {
+    text-decoration: underline;
+}
+
+#pagination {
+    height: 30px;
+    line-height: 32px;
+}
+#next_page {
+    float: right;
+}
+#prev_page {
+    float: left;
+}
+
+#sidebar {
+    width: 200px;
+    float: right;
+    position: relative;
+    /*text-align: justify;*/
+}
+#sidebar a, #sidebar a:visited {
+    color: #333;
+    text-decoration: none;
+}
+#sidebar a:hover {
+    text-decoration: underline;
+}
+#sidebar h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 50px;
+    color: #4ca9f1;
+}
+
+#comments form label {
+    display: block;
+}
+#comments form input, form textarea {
+    width: 500px;
+}
+#comments form label em {
+    color: #1681d4;
+}
+#form_error, .notice {
+    display: block;
+    padding: 8px;
+    margin: 10px;
+    border: 1px solid #ffcc00;
+    background: #fff08c;
+    text-align: center;
+}
+
+#footer {
+    clear: both;
+    text-align: center;
+    font-size: small;
+    color: #777;
+    height: 30px;
+}
+#footer a, #footer a:visited {
+    color: inherit;
+}
+
+
+
+
+
+
+
+
+
+
